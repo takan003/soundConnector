@@ -1,1 +1,1 @@
-{}
+{"x": 78, "y": 78, "width": 680, "height": 540, "default_port": "7355", "lang": "en", "autostart": false, "autostart_recv": false, "autostart_send": false, "start_minimized": false, "tray": false, "confirm_on_exit": true, "remember_history": false, "conn_history": [], "preferred_output_device_name": "", "launch_recv": false, "launch_send": false}
