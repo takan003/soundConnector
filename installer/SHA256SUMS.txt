@@ -1,0 +1,2 @@
+﻿SoundConnector.exe  a5b7e193272e562ef969d4c59db2f8ddce5648b91f6065a4595f47cae8e83115
+SoundConnector_v1.0_Setup.exe  850990326851210da72e705d6d20ecacc09f68d966fc46ead60a5d16e3f1980a

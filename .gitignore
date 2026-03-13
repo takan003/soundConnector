@@ -1,0 +1,41 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build and packaging outputs
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer output artifacts
+installer/*.exe
+installer/*.msi
+
+# PyInstaller runtime/temp files
+*.spec.bak
+
+# Logs and local debug files
+*.log
+tray_debug.txt
+
+# Packaging diagnostic/temp files
+build_hashes.txt
+iscc_path.txt
+portable_exitcode.txt
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local runtime/config overrides
+app_config.local.json
